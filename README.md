@@ -1,4 +1,4 @@
-# Clicker writed on QT/C++
+# Clicker written on QT/C++
 
 
 
