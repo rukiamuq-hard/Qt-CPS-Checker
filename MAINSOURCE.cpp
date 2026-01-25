@@ -17,6 +17,9 @@ Clicker::~Clicker()
 
 void Clicker::on_ClickButton_clicked(){
     strInptFrLine = ui->INPUTline->text();
+    if(strInptFrLine.isEmpty()){
+       strInptFrLine.push_back('5');
+    };
     if(!timer->isActive()){
         timer->start(1000);
         curTime = QTime(0, 0, 0);
