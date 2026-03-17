@@ -32,3 +32,11 @@ Make sure you have the following installed:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/rukiamuq-hard/Qt-CPS-Checker.git
+2. **Open directory**
+   ```bash
+   cd Qt-CPS-Checker
+3. **Build the project**
+   ```bash
+   mkdir build && cd build
+   cmake ..
+   cmake --build .
