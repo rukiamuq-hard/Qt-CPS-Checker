@@ -12,7 +12,7 @@ Qt-CPS-Checker allows users to measure their clicking speed over a custom durati
 * **Cross-platform:** Can be compiled on Windows, Linux, and macOS thanks to Qt and CMake.
 
 ## 🖼 Clicker Preview
-![Clicker Preview](img/FormUI.png)
+![Clicker Preview](img/IMG_OF_CLICKER.png)
 *(Note: Ensure the image path matches the file in your `img` folder)*
 
 ## 🛠 Tech Stack
