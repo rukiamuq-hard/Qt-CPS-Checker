@@ -1,26 +1,26 @@
-# Qt-CPS-Checker (v1.0.0)
+# Qt-CPS-Checker
 
 A lightweight and efficient **Clicks Per Second (CPS)** tester built with **C++** and the **Qt Framework**.
 
-## 📝 Description
+## Description
 Qt-CPS-Checker allows users to measure their clicking speed over a custom duration. It features a straightforward GUI and precise real-time tracking. This version (1.0.0) includes a functional "Small GUI," with a more advanced interface planned for future updates.
 
-## 🚀 Features
+## Features
 * **Custom Timer:** Set the duration of the test in seconds.
 * **Real-time Counter:** Tracks every click instantly.
 * **Live Countdown:** Displays the remaining time during the session.
 * **Cross-platform:** Can be compiled on Windows, Linux, and macOS thanks to Qt and CMake.
 
-## 🖼 Clicker Preview
+## Clicker Preview
 ![Clicker Preview](img/IMG_OF_CLICKER.png)
 *(Note: Ensure the image path matches the file in your `img` folder)*
 
-## 🛠 Tech Stack
+## Tech Stack
 * **Language:** C++
 * **Framework:** Qt (Widgets)
 * **Build System:** CMake
 
-## 📦 Build & Installation
+## Build & Installation
 
 ### Prerequisites
 Make sure you have the following installed:
@@ -31,4 +31,4 @@ Make sure you have the following installed:
 ### Compilation Steps
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/rukiamuq-hard/Qt-CPS-Checker.git](https://github.com/rukiamuq-hard/Qt-CPS-Checker.git)
+   git clone https://github.com/rukiamuq-hard/Qt-CPS-Checker.git
